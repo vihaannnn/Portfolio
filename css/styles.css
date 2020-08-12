@@ -1,0 +1,59 @@
+.navbar-dark {
+  background-color: black;
+}
+.jumbotron {
+  background-color: black;
+}
+.jumbopic
+{
+  height: 300px;
+}
+.jumbotext{
+  font-family: "Arial";
+}
+.carimg{
+  height: 3px;
+}
+.carousel {
+  background: black; }
+  .carousel .carousel-item {
+    height: 300px; }
+    .carousel .carousel-item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 300px; }
+
+#carouselButton {
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 1; }
+.footer{
+  background-color: black;
+}
+body{
+  background-color: #ffffff;
+  background-image: url("../img/code2.png");
+  background-repeat: repeat;
+  background-position: right top;
+}
+
+footer {
+  margin:0px;
+  padding:0px;
+  min-width:100%;
+  max-width:100%;
+  background:black;
+  height:auto;
+}
+
+.medimg{
+  height: 150px;
+}
+.media{
+  background-color: black;
+}
+.black{
+  background-color: black;
+}
